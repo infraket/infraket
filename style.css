@@ -11,7 +11,7 @@ body {
   background-size: cover;
   background-position: center bottom;
   padding-top:120px ;
-  width:1400px;
+  
 }
 
 h1 {
@@ -95,7 +95,7 @@ h2 {
   background-color: #696969;
   box-sizing: border-box;
   padding-top: 30px;
-  width:1400px;
+  
 }
 
 .logo {
