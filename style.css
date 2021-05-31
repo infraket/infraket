@@ -29,6 +29,7 @@ h2 {
   margin: 46px auto 0px;
 }
 
+
 .card {
   width: 600px;
   min-height: 420px;
@@ -54,7 +55,10 @@ h2 {
 .near {
   background-image: url(images/wp.gif);
 }
-
+.mos {
+   
+  background-image: url(images/sql.jpg); 
+}
 .fonts {
   background-image: ;
 }
