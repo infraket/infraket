@@ -1,0 +1,145 @@
+body {
+  font-family: 'Fira Sans';
+}
+
+.header {
+  height: 600px;
+  background-color: rgba(255, 0, 0, 0.7);
+  text-align: center;
+  color: #fff;
+  background-image: url(https://pictures.s3.yandex.net/background.jpg);
+  background-size: cover;
+  background-position: center bottom;
+  padding-top:120px ;
+  
+}
+
+h1 {
+  font-size: 55px;
+  line-height: 400px;
+  font-family: 'Anonymous Pro';
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 25px;
+  line-height: 30px;
+  letter-spacing: 0.5px;
+  width: 630px;
+  margin: 46px auto 0px;
+}
+
+
+.card {
+  width: 600px;
+  min-height: 420px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 65px;
+  
+}
+
+.module {
+   
+  background-image: url(images/style2011.gif); ;
+}
+
+.image {
+  width: 1000px;
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+  box-sizing: border-box;
+}
+
+.near {
+  background-image: url(images/wp.gif);
+}
+.mos {
+   
+  background-image: url(images/sql.jpg); 
+}
+
+.mos_two {
+   
+  background-image: url(images/sqlHP.jpg); 
+  width: 436px;
+  height: 408px;
+  
+}
+.mos_three{
+   
+  background-image: url(images/Динамика.gif); 
+}
+.mos_four{
+   
+  background-image: url(images/Аналитика.gif); 
+}
+.mos_five{
+   
+  background-image: url(images/mess2.gif); 
+}
+.fonts {
+  background-image: ;
+}
+
+.colors {
+  background-image: ;
+}
+
+.rules {
+  width: 910px;
+  margin: 90px auto 0px;
+}
+
+.module-card {
+  margin-right: 0;
+}
+
+.colors-card {
+  margin-right: 0;
+}
+
+.card h3 {
+  font-size: 35px;
+  font-family: 'Anonymous Pro';
+  font-weight: bold;
+  margin: 40px 0px 60px;
+  
+}
+.card h4 {
+  font-size: 35px;
+  font-family: 'Anonymous Pro';
+  font-weight: bold;
+  margin: 40px 0px 60px;
+  }
+.card h5 {
+  font-size: 35px;
+  font-family: 'Anonymous Pro';
+  font-weight: bold;
+  margin: 40px 0px 60px;
+}
+.card p {
+  font-size: 20px;
+  line-height: 30px;
+  margin-bottom: 90px;
+}
+
+.footer {
+  height: 100px;
+  background-color: #696969;
+  box-sizing: border-box;
+  padding-top: 30px;
+  
+}
+
+.logo {
+  width: 148px;
+  height: 38px;
+  
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: auto;
+}
+
